@@ -16,29 +16,29 @@ the main questions they’d like to answer:
 ### 2. Process 
 Their database was analyzed using SQL, performing complex queries such as CTEs, subqueries, and inner joins. 
 Data Dictionary and Entity relationship diagram were created during the process
-#### Data Storage & Structure
+#### 1. Data Storage & Structure
 * Explain data storage structures, including keys and indexes
 * Identify common data types in relational databases
 * Explain the different types of relational database schemas and their components
 * Extract an entity relationship diagram and create a first draft of a data dictionary
 
-#### SQL for Data Analysts
+#### 2. SQL for Data Analysts
 * Identify the syntax of common SQL commands, including basic CRUD operations
 * Explain commonly used constraints for creating tables
 * Write SQL commands in PostgreSQL to answer some basic business questions
 
-#### Database Querying in SQL
+#### 3. Database Querying in SQL
 * Identify SQL syntax for ordering, limiting, and grouping data
 * Explain the basics of database migration and ETL
 * Write SQL queries to organize and sort data
 
-#### Filtering Data
+#### 4. Filtering Data
 * Identify commonly used operators for filtering data
 * Differentiate between the WHERE and HAVING clauses
 * Explain CASE statements in SQL
 * Filter and order data using the WHERE and HAVING clauses
 
-#### Summarizing & Cleaning Data in SQL
+#### 5. Summarizing & Cleaning Data in SQL
 * Identify dirty data and describe ways of cleaning it
 * Explain the DSP model and the use of the VIEW statement
 * Create a data profile of summary statistics using SQL
